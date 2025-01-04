@@ -15,7 +15,6 @@ This project demonstrates the application of Polynomial Regression to analyze an
 
 - Visualization of regression curves and predictions.
 
----
 
 ## Requirements
 
@@ -23,7 +22,6 @@ This project demonstrates the application of Polynomial Regression to analyze an
 
 - Libraries: numpy, pandas, matplotlib, sklearn
 
----
 
 ## Usage
 
@@ -44,7 +42,6 @@ jupyter notebook Polynomial_Regression_Manufacturing.ipynb
 
 4. Follow the step-by-step implementation within the notebook.
 
----
 
 ## License
 
