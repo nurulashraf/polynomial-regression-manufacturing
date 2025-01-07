@@ -45,7 +45,7 @@ jupyter notebook Polynomial_Regression_Manufacturing.ipynb
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 ---
 
