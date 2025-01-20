@@ -1,6 +1,3 @@
-
----
-
 # Polynomial Regression in Manufacturing Analysis
 
 This project demonstrates the application of Polynomial Regression to analyze and predict manufacturing performance metrics. It provides a practical implementation of this regression technique using Python libraries, visualizations, and real-world manufacturing data.
@@ -46,6 +43,3 @@ jupyter notebook Polynomial_Regression_Manufacturing.ipynb
 ## License
 
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
----
-
